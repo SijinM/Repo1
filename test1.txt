@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 64CE-D6EE
-
- Directory of C:\Users\admin\Desktop\POSTMAN Collections\GIT\My Proj
-
-08/12/2020  10:51 AM    <DIR>          .
-08/12/2020  10:51 AM    <DIR>          ..
-08/12/2020  10:49 AM    <DIR>          .git
-08/12/2020  10:51 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  21,658,796,032 bytes free
+update
